@@ -12,6 +12,7 @@ namespace ApiDefaultApp.Controllers
     public class WeatherForecastController : ControllerBase
     {
         //este comentario es una prueba del git
+        //este es un comentarios de la ramaPrueba
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
